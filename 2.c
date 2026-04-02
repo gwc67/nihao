@@ -5,6 +5,7 @@ int main(void)
     printf("gGGGGGGGGGGGGGGGGG");
     printf("NNNNNNN");
     //a;sfdjh;easria;
+    printf("afsjd;ffh;asdj;hsdfhdf;saj\n");
 }
 
 
