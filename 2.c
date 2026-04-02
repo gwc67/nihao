@@ -4,7 +4,7 @@ int main(void)
     printf("hello");
     printf("gGGGGGGGGGGGGGGGGG");
     printf("NNNNNNN");
-    //只因为你太美丽
+    
 }
 
 
