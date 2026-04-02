@@ -3,6 +3,7 @@ int main(void)
 {
     printf("hello");
     printf("gGGGGGGGGGGGGGGGGG");
+    printf("NNNNNNN");
 }
 
 
